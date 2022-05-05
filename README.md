@@ -1,4 +1,4 @@
 # abusbot
 discord bot
 # kys
-https://www.youtube.com/embed/YG_GFrQosWI
+https://www.youtube.com/watch?v=YG_GFrQosWI
