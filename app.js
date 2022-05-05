@@ -19,5 +19,5 @@ client.on("message", message => {
 
 client.on
 
-client.login("OTcxMzAzMjk3MzY3NTU2MTA2.YnIisA.1gBQjydPIaqtC3g_t8D0j35C1lM")
+client.login("token")
 
