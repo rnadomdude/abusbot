@@ -19,5 +19,7 @@ client.on("message", message => {
 
 client.on
 
+print('test')
+
 client.login("token")
 
