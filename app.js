@@ -19,7 +19,8 @@ client.on("message", message => {
 
 client.on
 
-print('test')
+print('testing')
+// nae nae naegar nae nae
 
 client.login("token")
 
